@@ -105,5 +105,6 @@ New accuracy
 ![324396086-36fd6f69-d021-4489-b46a-ab4f68f410ea](https://github.com/23014226/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568974/c0cb51ca-57a7-4981-a0dc-1a43c2245878)
 
 ##Result:
+
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
